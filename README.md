@@ -1,8 +1,8 @@
 # Learn-Python
-Repository to track my Python learning path.
+This is a repository to track my Python learning path.
+I'm not sure how Gihub works yet either, I'm amalgamating my learning process for both Python and Github.
 Where do I start? 
 
 Learning Resources.
-https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
-
-https://www.bing.com/videos/search?q=learn+python+video+course&view=detail&mid=BDBE1506BD1B26D742F5BDBE1506BD1B26D742F5&FORM=VIRE
+Python named resources: https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+Quick Video Course: https://www.youtube.com/watch?v=rfscVS0vtbw
