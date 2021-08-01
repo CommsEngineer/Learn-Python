@@ -2,4 +2,7 @@
 This is a repository to track my Python learning path.
 I'm not sure how Gihub works yet either, I'm amalgamating my learning process for both Python and Github.<br>
 
-Presently utilising the wiki to document my plans.
+I am currently utilising this technique to build this repository;
+Use the wiki to document my plans in advance.<br>
+Create an issue for each step.<br>
+Use Projects and boards to keep track of my progress.<br>
